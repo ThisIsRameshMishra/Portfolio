@@ -12,7 +12,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <NavLink className="navbar-brand" to="#">
-            Ramesh Mishra
+            Madhumati Roy
           </NavLink>
           <button
             className="navbar-toggler"
