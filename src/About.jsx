@@ -37,8 +37,7 @@ const About = () => {
 			<h2 id="who-i-am"><strong>Who I Am</strong></h2>
 
 <p className=" who_i text-large">
-	My name's Madhumati Roy. I'm a web designer and software developer.
-    Currently,I am pursuing my B.E in BMS Institute of Technology in ECE Branch.Apart form that I have developed my techinical skills in IT Field.
+My name's Ramesh Mishra. I'm a web designer and software developer. Currently,I am pursuing my B.E in BMS Institute of Technology in EEE Branch.Apart form that I have developed my techinical skills in IT Field.
 </p>
 
 <p>I do love Coding.I have done courses on Data Structure and Algorithms and I do pratice to maintain my flow on DSA.I do programming on different Sites.Ex:-GFG,LeetCode,CodeChef,InterviewBit.....</p>

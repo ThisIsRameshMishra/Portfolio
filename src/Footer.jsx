@@ -23,21 +23,21 @@ const Footer=()=>{
 					<div className="grid__col grid__col--4 grid__col--v-center">
 						<ul className="icon-list icon-list--light list-style-type:none">
 							<li>
-                            <a href="https://www.linkedin.com/in/madhu-mati-roy-4517061a1/" target="_blank">
+                            <a href="https://www.linkedin.com/in/ramesh-mishra-171a25166/" target="_blank">
                             <img className="list_img_5" src="https://image.flaticon.com/icons/png/512/145/145807.png" alt="asdf"/>
                             </a>
                             </li>
 
 
                             <li> 
-                            <a href="#" target="_blank" >
+                            <a href="https://www.instagram.com/_ramesh.mishra_/" target="_blank" >
                             <img className="list_img_6" src="https://image.flaticon.com/icons/png/512/733/733558.png" alt="asdf"/>
                             </a>
                             </li>
                             
 
                             <li> 
-                            <a href="https://github.com/roymadhu123" target="_blank">
+                            <a href="https://github.com/ThisIsRameshMishra" target="_blank">
                             <img className="list_img_7" src="https://image.flaticon.com/icons/png/512/270/270798.png" alt="asdf"/>
                             </a>
                             </li>

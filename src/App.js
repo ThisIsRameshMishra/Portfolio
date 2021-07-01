@@ -10,6 +10,7 @@ import Service from "./Service";
 import Navbar from './Navbar';
 import Footer from "./Footer";
 import Project from "./Project";
+import Certificate from "./Certificate";
 import { Redirect, Route, Switch } from 'react-router-dom';
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
     <Route exact path="/service" component={Service}/>
     <Route exact path="/contact" component={Contact}/>
     <Route exact path="/project" component={Project}/>
+    <Route exact path="/certificate" component={Certificate}/>
     <Redirect to="/"/>
   </Switch>
   <Footer/>

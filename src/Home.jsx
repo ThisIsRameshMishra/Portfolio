@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import Web from "../src/img1.png"
+import Web from "../src/img1.png";
 
 const Home = () => {
   return (
@@ -13,9 +13,14 @@ const Home = () => {
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h1 className="main">
                     Welcome!
-                    <strong className="brand-name">This is Madhumati Roy</strong>
+                    <strong className="brand-name">
+                      This is Ramesh Mishra
+                    </strong>
                   </h1>
-                  <h2 className="my-3">I am a software Developer</h2>
+                  <h2 className="my-3">
+                    I am a software Developer Currently pursuing my B.E in
+                    EEE.(3rd Year)
+                  </h2>
                   <div className="mt-3">
                     <NavLink to="./service" className="btn-get-started">
                       Start Learning
@@ -30,17 +35,9 @@ const Home = () => {
                 </div>
               </div>
             </div>
-            
           </div>
         </div>
-        
       </section>
-      
-    
-
-
-      
-    
     </>
   );
 };
